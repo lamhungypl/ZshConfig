@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/jmango/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Path to Android Studio
 export ANDROID_HOME=$HOME/Library/Android/sdk
